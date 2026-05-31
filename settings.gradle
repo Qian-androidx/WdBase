@@ -25,6 +25,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "wdbase"
-include ':app'
+//include ':app'
 include ':wdibrary'
 
